@@ -1,0 +1,3 @@
+app-header, app-sidebar, app-footer, app-contacts {
+  display: contents;
+}
